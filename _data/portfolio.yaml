@@ -1,0 +1,90 @@
+general:
+  github-url: https://github.com/augustinevt
+  twitter: https://twitter.com/AugustvonTrapp
+  email: augustvontrapp@gamil.com
+
+profile:
+
+  name: August von Trapp
+
+  about: I began traveling prolifically as a professional musician at a young age, working seriously in the context of a multitude of cultures and collecting a comprehensive worldview. My love of structure, composition, and creativity led me to begin working with code in 2015. I attended Epicodus, a web development boot camp, to learn how to create software by collaborating with a diverse team of other developers. In the time afterward, my unique intelligence and work ethic has allowed me the opportunity to work alongside truly talented people and use the cutting edge of technology and development methods.
+
+  image:
+
+  age: 22
+
+  favorite-food: Ice Cream
+
+experience:
+
+  - title: Reflect Technologies
+    position: Front-End Engineer
+    dates: oct. 2016 - jan. 2017
+    website: http://reflect.io
+    summary: "I did a lot of things there are really cool. I love everybody and want to make the world a better place"
+
+  - title: Epicodus
+    position: Rails/Javascript
+    dates: may. 2016 - oct. 2017
+    website: http://epicodus.com
+    summary: "I did a lot of things there are really cool. I love everybody and want to make the world a better place"
+
+projects:
+
+  - title: Reflect website
+    blurb: This is such a cool project. I would love if you checkout all of this shit. The way that I made this is designed to impress you.
+    link: http://somesite.org
+
+    main-image: rfl-website-screenshot.png
+
+    codebits:
+      - image: code-shot.png
+        gh-url: http://githhubcode.com
+      - image: code-shot.png
+        gh-url: http://githhubcode.com
+      - image: code-shot.png
+        gh-url: http://githhubcode.com
+
+    icons:
+      - golang.png
+      - react.png
+      - rethink.png
+      - sass.png
+
+skills:
+
+  languages:
+    - name: ruby
+      level: 7
+    - name: JavaScript
+      level: 7
+    - name: Go
+      level: 2
+    - name: TypeScript
+      level: 4
+    - name: Python
+      level: 4
+
+  Frameworks:
+    - name: Rails
+      level: 7
+    - name: React
+      level: 7
+    - name: Ember
+      level: 2
+    - name: Sinatra
+      level: 4
+    - name: Flask
+      level: 4
+
+  Tools:
+    - name: Docker
+      level: 7
+    - name: Git
+      level: 7
+    - name: Design
+      level: 2
+    - name: Scss
+      level: 4
+    - name: CircleCI
+      level: 4

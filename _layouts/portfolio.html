@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    {% stylesheet application %}
+  </head>
+  <body>
+    {{ site.data.portfolio.sections }}
+
+    {% for section in site.data.portfolio.sections %}
+      <div class="foo"> heelo </div>
+    {% endfor %}
+  </body>
+</html>
